@@ -1,3 +1,11 @@
+## 📥 下载拾影 | Download
+
+**当前版本：v0.1.1 Windows 便携预览版**
+
+[📦 点击下载拾影 Windows 版本](https://github.com/daoruidu/shiying-video-downloader/releases/tag/v0.1.1)
+
+支持 Windows 10/11 x64，完整解压后运行 VideoDownloadManager.exe。
+
 # 🎬 拾影 | Shiying Video Downloader
 
 ### Windows 视频下载管理器 | Windows Video Download Manager
