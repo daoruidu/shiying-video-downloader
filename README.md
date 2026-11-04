@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/shiying-logo.svg" alt="拾影 Shiying Logo" width="760"></p>
+
 # 🎬 拾影 | Shiying Video Downloader
 
 **Windows 视频下载管理器 · C# / WPF / .NET**
