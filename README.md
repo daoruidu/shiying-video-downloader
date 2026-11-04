@@ -34,9 +34,10 @@ Shiying is a Windows desktop video download manager built with C#, WPF, and .NET
 
 ## 📸 软件截图 | Screenshots
 
-软件界面截图即将添加。
+### 🖥️ 软件主界面 | Main Window
 
-Screenshots coming soon.
+![拾影主界面](assets/screenshots/main-window.png)
+
 
 ## 📦 下载与安装 | Installation
 
